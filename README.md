@@ -11,3 +11,5 @@ Each model's performance will be evaluated in terms of their accuracy of classif
 - An overall metric of classification prediction confidence, which would be given by the sum of all the entropies divided by the total possible entropy. 
 - A verdict on the effectiveness and validity of utilizing facial landmarks as a method to classify human emotions.
 - A final report and recorded presentation summarizing the methodology, results, and potential applications of landmark-based facial recognition. 
+
+Using the results from each of our models, we will determine whether or not the models would prove efficient in classifying emotions based on facial landmarks. Additionally, we would like to answer whether or not facial landmarks are an effective strategy to interpret human emotions. 
